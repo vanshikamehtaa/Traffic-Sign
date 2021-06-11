@@ -3,3 +3,4 @@ tensorflow==2.4.0
 flask
 Werkzeug
 gunicorn
+pillow
